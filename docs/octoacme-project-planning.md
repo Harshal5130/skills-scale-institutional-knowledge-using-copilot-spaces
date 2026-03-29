@@ -27,8 +27,9 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Sprint / Iteration Planning
 - Timebox planning to agreed sprint length
-- Pull items that meet DoD and have clear acceptance criteria
+- Pull items that meet DoD and have clear acceptance criteria (see [Definition of Done Checklist](./octoacme-definition-of-done-checklist.md))
 - Ensure team capacity is respected
+- Scrum Master / Agile Coach facilitates the planning ceremony and helps resolve capacity or scope conflicts
 
 ## Risk & Dependency Management
 - Capture in Risk Register:
@@ -39,5 +40,6 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
+- [ ] Definition of Done documented (see [Definition of Done Checklist](./octoacme-definition-of-done-checklist.md))
 - [ ] Initial test plan / QA approach drafted
+- [ ] Role responsibilities confirmed using the [Role Interaction Matrix](./octoacme-role-interaction-matrix.md)

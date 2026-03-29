@@ -13,6 +13,8 @@ Maintain a simple table with:
 - Mitigation plan
 - Status
 
+> For security risks, the **Security Lead** is the designated owner and must be consulted when assessing impact and defining mitigation. Security risks are flagged in the register with a `[SECURITY]` tag and reviewed at every weekly sync.
+
 ## Risk Lifecycle
 - Identify: during planning and ongoing execution
 - Assess: estimate impact and likelihood
@@ -39,4 +41,6 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- For security incidents, the **Security Lead** leads triage and response; follow the security incident runbook and notify Security on-call immediately
+- Security Lead logs all security risks in the Risk Register and provides regular status updates to Project Managers and stakeholders
+- Non-security escalations: Team-level -> Scrum Master / Agile Coach -> Project Manager -> Sponsor

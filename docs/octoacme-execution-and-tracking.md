@@ -4,7 +4,7 @@
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
 
 ## Team Rhythm
-- Daily standups (15 min) — focus on progress, blockers, dependencies
+- Daily standups (15 min) — focus on progress, blockers, dependencies; facilitated by the **Scrum Master / Agile Coach**
 - Weekly delivery sync — show progress, updates, and flagged risks
 - Demo/Review at the end of each sprint or milestone
 
@@ -24,9 +24,10 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Manual QA for feature acceptance when needed
 
 ## Reporting & Metrics
-- Track velocity and burndown
-- Monitor success metrics identified in the Project One-pager
+- Track velocity and burndown (reviewed by **Scrum Master / Agile Coach** each sprint)
+- Monitor success metrics identified in the Project One-pager; **Data Analyst** owns metric dashboards and flags anomalies
 - Use dashboards for key signals (errors, latency, usage)
+- Data Analyst provides instrumentation specifications to Developers and validates data accuracy before reporting
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
@@ -38,3 +39,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Definition of Done checklist applied to each completed item (see [Definition of Done Checklist](./octoacme-definition-of-done-checklist.md))
+- [ ] Role responsibilities confirmed using the [Role Interaction Matrix](./octoacme-role-interaction-matrix.md)
